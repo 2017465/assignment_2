@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          Text Changes
         </a>
       </header>
     </div>
